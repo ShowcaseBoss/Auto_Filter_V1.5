@@ -34,7 +34,7 @@ async def start(bot, update):
 \n
 🤖 Bots for common use👇 \n
 👇🏻(Rename, Group Manager, etc)👇🏻 \n
-https://t.me/mymovieshowcase \n
+https://t.me/bots_showcase \n
 🎬 Movie request group👇 \n
 https://t.me/mymovieshowcase \n
  🎭 Cartoon👇 \n
